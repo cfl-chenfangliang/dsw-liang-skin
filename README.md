@@ -7,8 +7,6 @@
 
 作用于网页版的Deepseek: https://chat.deepseek.com/
 
-[一句话描述：例如“将‘滑动变祖’的 0–30 推理强度滑块与视觉联动体验，带到浏览器端的 DeepSeek Harness 页面。”]
-
 简介
 [插件名称] 是一个运行在浏览器中的用户脚本（userscript），通过油猴扩展加载。改编自开源项目 kingOfSoySauce/dsh-liang-skin（中文名“滑动变祖”），将原项目中基于 DeepSeek Harness 插件体系的“推理强度滑杆 + 人物/背景/界面同步配色”交互，重新实现为不依赖 DSH 插件安装流程的油猴脚本形式。
 
